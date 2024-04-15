@@ -1,5 +1,6 @@
 title: Nandita Sharma 
+Logo: /nandita-sharma-portfolio/blob/main/passport_photo.jpg
 description:  Welcome to my Data Page!
 show_downloads: true
-# google_analytics:
+google_analytics:
 theme: jekyll-theme-cayman
