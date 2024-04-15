@@ -43,7 +43,7 @@ To utilize the Fleet Management Report in Power BI:
    
 **Here is a snapshot of the Fleet Management Report dashboard:**
 
-![Fleet Management Dashboard](/assets/Fleet_management_report.png)
+![Fleet Management Dashboard](/asset/Fleet_management report.png)
 
 When collaborating on the Fleet Management Report project, consider using Git commands to manage changes effectively, Click on the heading link to get the PBIX file.
 
