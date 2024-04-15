@@ -4,6 +4,9 @@
 
 Hi there! I'm [Nandita Sharma], a passionate data enthusiast with expertise in data analysis, visualization, and machine learning. Welcome to my GitHub Pages portfolio, where I showcase my projects and analyses.
 
+## Education
+Masters in Computer Application
+
 ## Portfolio Overview
 
 In this portfolio, you will find a collection of projects that demonstrate my skills and experience in data analysis and data science. Each project is accompanied by detailed analyses, visualizations, and insights, providing a comprehensive view of the data-driven solutions I've developed.
