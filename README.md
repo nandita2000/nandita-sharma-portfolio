@@ -1,8 +1,8 @@
-# Welcome to My Data Analyst/Data Science Portfolio!
+# Nandita Sharma-Data Analysis/Data Science Portfolio!
 
 ## About Me
 
-Hello there! I'm Nandita Sharma, a passionate data enthusiast with expertise in data analysis, visualization, BI Analysis, and machine learning. Welcome to my GitHub Pages portfolio, where I showcase my projects and analyses.
+Hello there! I'm Nandita Sharma, a passionate data enthusiast with expertise in data analysis, visualization, BI Analysis, Tableau, Alteryx, and machine learning. Welcome to my GitHub Pages portfolio, where I showcase my projects and analyses.
 
 ## Education
 Masters in Computer Application
@@ -15,24 +15,24 @@ In this portfolio, you will find a collection of projects that demonstrate my sk
 
 Here are some highlights from my portfolio:
 
-### Power BI Developed Dashboards and Report
+### Power BI Developed Dashboards and Report (/asset/logo1.png)
 
 - [Sales Analysis Report](link-to-project-1): Description of the project.
 - [Fleet Management Report](https://github.com/nandita2000/Power-Bi-Dashboards/blob/4b1371de20d0f742bb54998a1e7c2055198281d9/fleet_management_report.pbix)
 - The Fleet Management Report is a comprehensive report designed to provide insights and analytics for managing a fleet of vehicles. The report aggregates data from various sources, including vehicle sensors, maintenance records, fuel consumption, and driver behavior, to offer actionable insights for optimizing fleet performance and reducing operational costs.
 
-## Key Features
+#### **Key Features**
 
 - **Vehicle Performance Metrics**: Track key performance indicators (KPIs) such as mileage, fuel efficiency, and maintenance costs to monitor the health and efficiency of each vehicle in the fleet.
 - **Maintenance Schedule**: Visualize upcoming maintenance tasks and schedules to ensure timely servicing and reduce downtime.
 - **Fuel Consumption Analysis**: Analyze fuel consumption patterns to identify areas for improvement and cost-saving opportunities.
 - **Driver Behavior Analysis**: Monitor driver behavior metrics such as speed, idling time, and harsh braking to promote safe driving practices and optimize fuel usage.
-- **Adding Tooltip**: Create Tooltip to get more details for each Driver and its consumption report.
+- **Adding Tooltip**: Creating Tooltip to get more details for each Driver and its consumption report.
 - **Customizable Dashboard**: The dashboard is customizable to suit specific business requirements, allowing users to tailor the report to their unique fleet management needs.
 
-## Usage
+#### **Usage**
 
-To utilize the Fleet Management Report in Power BI:
+**To utilize the Fleet Management Report in Power BI:*
 
 1. **Clone or Download**: Clone this repository to your local machine or download it as a ZIP file.
 2. **Open Power BI Desktop**: If you haven't already, download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
@@ -41,7 +41,7 @@ To utilize the Fleet Management Report in Power BI:
 5. **Interact with the Report**: Explore the interactive visuals, filters, and slicers to gain insights from the data.
 6. **Customize and Share**: Customize the report layout, visuals, or calculations according to your specific fleet management requirements. Then, share the insights with your team or stakeholders.
    
-**Here is a snapshot of the Fleet Management Report dashboard:**
+**Here is a snapshot of the Fleet Management Report dashboard:*
 
 ![Fleet Management Dashboard](/asset/Fleet_management report.png)
 
@@ -57,7 +57,7 @@ Feel free to explore the projects and dive into the analyses!
 To explore my portfolio projects:
 
 1. Navigate to the project folders.
-2. Open the project files (Jupyter Notebooks, R Markdown files, etc.) to view the analyses and visualizations.
+2. Open the project files (Jupyter Notebooks, PBIX files, Workbooks, Workflows, etc.) to view the analyses and visualizations.
 3. Feel free to provide feedback or ask questions by opening an issue in the project repository.
 
 ## Contributing
