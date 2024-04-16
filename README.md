@@ -17,27 +17,33 @@ Here are some highlights from my portfolio:
 
 ![Power BI Developed Dashboards and Report](/asset/logo1.png)
 
-- # [Sales Complete Descriptive Analysis Report](https://github.com/nandita2000/Power-Bi-Dashboards/blob/4b1371de20d0f742bb54998a1e7c2055198281d9/sales_complete_descriptive_analysis_report.pbix)
+- [Sales Complete Descriptive Analysis Report](https://github.com/nandita2000/Power-Bi-Dashboards/blob/4b1371de20d0f742bb54998a1e7c2055198281d9/sales_complete_descriptive_analysis_report.pbix)
 
 The Sales Descriptive Analysis Complete Report is a comprehensive Power BI dashboard designed to provide insights into sales performance across various dimensions. The report encompasses multiple pages, each focusing on different aspects of sales analysis to facilitate informed decision-making and strategic planning. 
-Key features include: Year-over-Year (YoY) sales growth analysis, sales by value and quantity, product category sales, geographic sales distribution, product analysis by quantity and amount, sales and profit reports, as well as customer and product analysis.
+Key features includes : Year-over-Year (YoY) sales growth analysis, sales by value and quantity, product category sales, geographic sales distribution, product analysis by quantity and amount, sales and profit reports, as well as customer and product analysis.
 
 ## Key Pages and Features
 
 - **YoY Sales Growth**: Analyze year-over-year sales growth trends to understand performance changes over time.
-- ![YoY Sales Growth](/asset/sales_report1.png)
-- **Sales and Profit by Month**: Visualize sales and profit by month to identify top-selling year and trends.
-- ![Sales By Value and Quantity](/asset/Sreport2.png)    
+      ![YoY Sales Growth](/asset/sales_report1.png)
+  
+- **Sales and Profit by Month**: Visualize sales and profit by month to identify year-wise trends.
+      ![Sales By Value and Quantity](/asset/Sreport2.png)
+  
 - **Product Category Sales**: Explore sales performance across different product categories to prioritize marketing efforts and product development.
-- ![Product Category Sales](/asset/Sreport4.png)
+      ![Product Category Sales](/asset/Sreport4.png)
+  
 - **Sales By Geographic Location**: View sales distribution geographically to identify regions with high or low sales performance.
-- ![Sales By Geographic Location](/asset/Sreport5.png)
+      ![Sales By Geographic Location](/asset/Sreport5.png)
+  
 - **Products By Quantity and Amount**: Analyze product sales in terms of quantity and revenue to optimize inventory management and pricing strategies.
-- ![Products By Quantity and Amount](/asset/Sreport6.png)
+      ![Products By Quantity and Amount](/asset/Sreport6.png)
+  
 - **Sales and Profit Report**: Gain insights into sales and profit margins to assess overall business performance.
-- ![Sales and Profit Report](/asset/Sreport7.png)   
+     ![Sales and Profit Report](/asset/Sreport7.png)
+  
 - **Customer and Product Report**: Analyze customer purchasing behavior and product preferences to tailor marketing campaigns and improve customer satisfaction.
-- ![Customer and Product Report](/asset/Sreport8.png)
+     ![Customer and Product Report](/asset/Sreport8.png)
 ______________________________________________________________________________________________________________________________________________________________________
 
 - [Fleet Management Report](https://github.com/nandita2000/Power-Bi-Dashboards/blob/4b1371de20d0f742bb54998a1e7c2055198281d9/fleet_management_report.pbix)
