@@ -15,7 +15,7 @@ In this portfolio, you will find a collection of projects that demonstrate my sk
 
 Here are some highlights from my portfolio:
 
-## ![Power BI Developed Dashboards and Report](/asset/logo1.png) 
+## Power BI Developed Dashboards and Report ![Power BI Developed Dashboards and Report](/asset/logo1.png) 
 
 
 
