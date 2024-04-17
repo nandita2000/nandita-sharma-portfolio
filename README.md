@@ -15,7 +15,7 @@ In this portfolio, you will find a collection of projects that demonstrate my sk
 
 Here are some highlights from my portfolio:
 
-- # ![Power BI Developed Dashboards and Report](/asset/logo1.png)
+- # ![Power BI Developed Dashboards and Report]    (/asset/logo1.png)
 
 
 - [Sales Complete Descriptive Analysis Report](https://github.com/nandita2000/Power-Bi-Dashboards/blob/4b1371de20d0f742bb54998a1e7c2055198281d9/sales_complete_descriptive_analysis_report.pbix)
@@ -23,7 +23,7 @@ Here are some highlights from my portfolio:
 The Sales Descriptive Analysis Complete Report is a comprehensive Power BI dashboard designed to provide insights into sales performance across various dimensions. The report encompasses multiple pages, each focusing on different aspects of sales analysis to facilitate informed decision-making and strategic planning. 
 Key features includes : Year-over-Year (YoY) sales growth analysis, sales by value and quantity, product category sales, geographic sales distribution, product analysis by quantity and amount, sales and profit reports, as well as customer and product analysis.
 
-## Key Pages and Features
+### Key Pages and Features
 
 - **YoY Sales Growth**: Analyze year-over-year sales growth trends to understand performance changes over time.
       ![YoY Sales Growth](/asset/sales_report1.png)
@@ -77,21 +77,21 @@ ABC Analysis classifies inventory items into three categories based on their val
 
 The A items — typically the most expensive and most important — should be managed with extra care and attention. The B items are also important for the business’s success, but not as much as A. The C items are not as important for the business’s success.
 
-## Key Pages and Features
+###Key Pages and Features
 
 ### Inventory Analysis
 - **ABC Analysis**: Perform ABC Analysis on inventory items to categorize them based on their value and prioritize management efforts.
 - **Other Inventory Metrics**: Analyze other inventory metrics such as turnover ratio, stockouts, and carrying costs to optimize inventory levels and reduce holding costs.
 - **Inventory Trends**: Visualize inventory trends over time to identify seasonality, demand patterns, and potential stockpile or depletion risks.
-- 
-        ![Inventory Analysis](/asset/inventory1.png)
+   
+    ![Inventory Analysis](/asset/inventory1.png)
 
 ### Vendor Analysis
 - **ABC Analysis**: Conduct ABC Analysis on vendors to categorize them based on their contribution to procurement costs and supply reliability.
 - **Vendor Performance Metrics**: Evaluate vendor performance metrics such as on-time delivery, quality, and pricing to optimize vendor selection and negotiation strategies.
 - **Vendor Comparison**: Compare vendors' performance side by side to identify strengths, weaknesses, and opportunities for improvement.
-- 
-        ![Vendor Analysis](/asset/inven2.png)
+
+   ![Vendor Analysis](/asset/inven2.png)
 
   
 Feel free to explore the projects and dive into the analyses!
