@@ -15,7 +15,8 @@ In this portfolio, you will find a collection of projects that demonstrate my sk
 
 Here are some highlights from my portfolio:
 
-![Power BI Developed Dashboards and Report](/asset/logo1.png)
+- # ![Power BI Developed Dashboards and Report](/asset/logo1.png)
+
 
 - [Sales Complete Descriptive Analysis Report](https://github.com/nandita2000/Power-Bi-Dashboards/blob/4b1371de20d0f742bb54998a1e7c2055198281d9/sales_complete_descriptive_analysis_report.pbix)
 
@@ -44,11 +45,14 @@ Key features includes : Year-over-Year (YoY) sales growth analysis, sales by val
   
 - **Customer and Product Report**: Analyze customer purchasing behavior and product preferences to tailor marketing campaigns and improve customer satisfaction.
      ![Customer and Product Report](/asset/Sreport8.png)
-______________________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 
 - [Fleet Management Report](https://github.com/nandita2000/Power-Bi-Dashboards/blob/4b1371de20d0f742bb54998a1e7c2055198281d9/fleet_management_report.pbix)
 
 - The Fleet Management Report is a comprehensive report designed to provide insights and analytics for managing a fleet of vehicles. The report aggregates data from various sources, including vehicle sensors, maintenance records, fuel consumption, and driver behavior, to offer actionable insights for optimizing fleet performance and reducing operational costs.
+
+    ![Fleet Management Dashboard](/asset/Fleet_management report.png)
 
 #### **Key Features**
 
@@ -59,29 +63,37 @@ ________________________________________________________________________________
 - **Adding Tooltip**: Creating Tooltip to get more details for each Driver and its consumption report.
 - **Customizable Dashboard**: The dashboard is customizable to suit specific business requirements, allowing users to tailor the report to their unique fleet management needs.
 
-#### **Usage**
-
-**To utilize the Fleet Management Report in Power BI:**
-
-1. **Clone or Download**: Clone this repository to your local machine or download it as a ZIP file.
-2. **Open Power BI Desktop**: If you haven't already, download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
-3. **Open Report**: Open the Fleet Management Report (.pbix file) using Power BI Desktop.
-4. **Refresh Data**: Configure data source connections and refresh the data to update the report with the latest information.
-5. **Interact with the Report**: Explore the interactive visuals, filters, and slicers to gain insights from the data.
-6. **Customize and Share**: Customize the report layout, visuals, or calculations according to your specific fleet management requirements. Then, share the insights with your team or stakeholders.
-   
-**Here is a snapshot of the Fleet Management Report dashboard:**
-
-![Fleet Management Dashboard](/asset/Fleet_management report.png)
-
 When collaborating on the Fleet Management Report project, consider using Git commands to manage changes effectively, Click on the heading link to get the PBIX file.
 
 
-______________________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-- [Project 3: Title](link-to-project-3): Description of the project.
-- ...
 
+- [Inventory Management and Vendor Analysis](https://github.com/nandita2000/Power-Bi-Dashboards/blob/4b1371de20d0f742bb54998a1e7c2055198281d9/inventory_analysis_report.pbix)
+  
+-  The Inventory and Vendor Analysis Report is a comprehensive Power BI dashboard designed to provide insights into inventory management and vendor performance. The report encompasses multiple pages, each focusing on different aspects of inventory and vendor analysis to optimize procurement, reduce costs, and improve efficiency.
+ Key features include ABC Analysis for inventory and vendors, providing insights into the critical items and suppliers that contribute most significantly to the business.
+ABC Analysis classifies inventory items into three categories based on their value and importance to the business: A (high-value items), B (medium-value items), and C (low-value items).
+
+The A items — typically the most expensive and most important — should be managed with extra care and attention. The B items are also important for the business’s success, but not as much as A. The C items are not as important for the business’s success.
+
+## Key Pages and Features
+
+### Inventory Analysis
+- **ABC Analysis**: Perform ABC Analysis on inventory items to categorize them based on their value and prioritize management efforts.
+- **Other Inventory Metrics**: Analyze other inventory metrics such as turnover ratio, stockouts, and carrying costs to optimize inventory levels and reduce holding costs.
+- **Inventory Trends**: Visualize inventory trends over time to identify seasonality, demand patterns, and potential stockpile or depletion risks.
+- 
+        ![Inventory Analysis](/asset/inventory1.png)
+
+### Vendor Analysis
+- **ABC Analysis**: Conduct ABC Analysis on vendors to categorize them based on their contribution to procurement costs and supply reliability.
+- **Vendor Performance Metrics**: Evaluate vendor performance metrics such as on-time delivery, quality, and pricing to optimize vendor selection and negotiation strategies.
+- **Vendor Comparison**: Compare vendors' performance side by side to identify strengths, weaknesses, and opportunities for improvement.
+- 
+        ![Vendor Analysis](/asset/inven2.png)
+
+  
 Feel free to explore the projects and dive into the analyses!
 
 ## Usage
