@@ -15,7 +15,7 @@ In this portfolio, you will find a collection of projects that demonstrate my sk
 
 Here are some highlights from my portfolio:
 
-- # ![Power BI Developed Dashboards and Report]    (/asset/logo1.png)
+ ## ![Power BI Developed Dashboards and Report](/asset/logo1.png)
 
 
 - [Sales Complete Descriptive Analysis Report](https://github.com/nandita2000/Power-Bi-Dashboards/blob/4b1371de20d0f742bb54998a1e7c2055198281d9/sales_complete_descriptive_analysis_report.pbix)
