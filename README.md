@@ -1,4 +1,4 @@
-# Nandita Sharma-Data Analysis/Data Science Portfolio!
+# Nandita Sharma-Data Analysis Portfolio!
 
 ## About Me
 
@@ -46,6 +46,21 @@ Key features includes : Year-over-Year (YoY) sales growth analysis, sales by val
   
 - **Customer and Product Report**: Analyze customer purchasing behavior and product preferences to tailor marketing campaigns and improve customer satisfaction.
      ![Customer and Product Report](/asset/Sreport8.png)
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+- [Market Basket Analysis Report](https://github.com/nandita2000/Power-Bi-Dashboards/blob/80a6fe7994a7b9197e8de8bf1b7f819f91830d85/Market%20Basket%20Analysis.pbix)
+
+- The Market Basket Analysis Report is a Power BI dashboard designed to uncover associations and patterns among products purchased together. Utilizing market basket analysis techniques, this report enables businesses to understand customer purchasing behavior, identify product affinities, and optimize marketing strategies. Leveraging the power of Data Analysis Expressions (DAX), the report generates insightful metrics and visualizations to support data-driven decision-making.
+
+    ![Market Basket Analysis Report](/asset/MBA.png)
+
+- #### Key Features
+
+- **Association Rules**: Discover frequent itemsets and association rules to understand which products are commonly purchased together.
+- **Support, Confidence, and Lift Metrics**: Calculate support, confidence, and lift metrics for identified associations to measure their significance and impact on sales.
+- **Top Products Affinity**: Identify products with the highest affinity and cross-sell opportunities to enhance revenue and customer satisfaction.
+- **Visualizations**: Visualize association rules and product affinities through interactive charts, graphs, and tables for easy interpretation and exploration.
+- **Customizable Analysis**: Customize the analysis by adjusting parameters such as support threshold and confidence level to focus on specific associations and insights.
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
