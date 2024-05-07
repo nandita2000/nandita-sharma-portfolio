@@ -109,6 +109,22 @@ The A items — typically the most expensive and most important — should be ma
 
    ![Vendor Analysis](/asset/inven2.png)
 
+
+## Tableau Developed Workbooks and Report ![Tableau Developed Workbooks and Report](/asset/logo-1.png) 
+
+- [Netflix Report](https://github.com/nandita2000/Tableau-workbooks/blob/607b6d959aee70bd20c5d9409a214d9b120ab146/Netfix%20Workbook.twb)
+
+- The Netflix Analysis Report is a Tableau dashboard aimed at exploring and analyzing various aspects of Netflix's content library, viewership trends, and user preferences. Leveraging the capabilities of Tableau, this project provides interactive visualizations and insights to understand Netflix's content strategy, audience engagement, and global reach. From analyzing popular genres and titles to examining viewership patterns across different regions, this report offers valuable insights for stakeholders in the entertainment industry.
+  
+### Key Features
+
+- **Content Analysis**: Explore Netflix's content library by genre, release year, and ratings to understand its diversity and popularity.
+- **Viewership Trends**: Analyze viewership trends over time, including peak viewing hours, binge-watching patterns, and seasonal fluctuations.
+- **Geographic Analysis**: Visualize viewership data geographically to identify regions with high subscriber growth and content consumption.
+- **User Preferences**: Investigate user preferences by analyzing ratings, reviews, and viewing habits to personalize content recommendations.
+- **Customizable Dashboards**: Customize the dashboards to focus on specific metrics or segments of interest, providing actionable insights for decision-making.
+
+![Netflix Analysis](/asset/Netflix-dashboard.png)
   
 Feel free to explore the projects and dive into the analyses!
 
